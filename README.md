@@ -1,4 +1,4 @@
-### Pancancer-model v1
+### Brain-cancer model v1
 This is a Nextflow-based implementation of a predictive model compatible with the [MbCC](https://mbcc.pum.edu.pl/) model registry.
 
 #### Run locally
